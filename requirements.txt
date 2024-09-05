@@ -1,0 +1,12 @@
+streamlit
+transformers
+youtube-transcript-api
+pandas
+scikit-learn
+stanza
+nltk
+scipy
+numpy
+matplotlib
+keybert
+torch
